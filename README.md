@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-- 🔭 I’m currently studying **software engineer**
+
+- 🔭 I’m currently studying **software engineering**
 
 - 🌱 I’m currently learning **Frontend and Backend**
 
