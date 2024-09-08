@@ -2,8 +2,8 @@
 - 🔭 I’m currently studying **Software Engineering**<br><br>
 - 🌱 I’m currently learning **CLOUD (AWS MOSTLY) 🌥️🌥️**<br><br>
 - 👨‍💻 Projects are available at [https://alexdev.eus](https://alexdev.eus)<br><br>
-- 📝 I  write articles on [https://blog.alexdev.eus](https://blog.alexdev.eus)</br>
-- I'm AWS Cloud Practitioner Certified ✔️
+- 📝 I  write articles on [https://blog.alexdev.eus](https://blog.alexdev.eus)<br><br>
+- I'm AWS Cloud Practitioner Certified ✔️ </br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-rivas-machin) 
