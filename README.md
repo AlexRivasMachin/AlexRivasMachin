@@ -1,6 +1,6 @@
 # 💫 Hi! It´s Alex, 👋 [![](https://visitcount.itsvg.in/api?id=AlexRivasMachin&icon=0&color=0)](https://visitcount.itsvg.in) 
 - 🔭 I’m currently studying **Software Engineering**<br><br>
-- 🌱 I’m currently learning **Frontend and Backend**<br><br>
+- 🌱 I’m currently learning **CLOUD (AWS MOSTLY) 🌥️🌥️**<br><br>
 - 👨‍💻 Projects are available at [https://alexdev.eus](https://alexdev.eus)<br><br>
 - 📝 I  write articles on [https://blog.alexdev.eus](https://blog.alexdev.eus)</br>
 
