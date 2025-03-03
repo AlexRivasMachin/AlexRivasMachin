@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently studying **Software Engineering**
-- ☁️ I’m currently learning **CLOUD (AWS MOSTLY)**
+- ☁️ I’m currently learning **CLOUD**
 - 👨‍💻 Projects, experience and personal information are available at [https://alexrivasmachin.eus](https://alexrivasmachin.eus)
 - ⛅ I'm AWS Cloud Practitioner Certified ✔️ 
 
