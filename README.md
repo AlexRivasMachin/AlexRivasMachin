@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working as  **Cloud Cybersecrity Engineer**
+- 🔭 I’m currently working as  **Cloud Cybersecurity Engineer**
 - ☁️ I’m currently learning **CLOUD**
 - 👨‍💻 Projects, experience and personal information are available at [https://alexrivasmachin.github.io/](https://alexrivasmachin.github.io/)
 - ⛅ I'm AWS Cloud Practitioner Certified ✔️ 
